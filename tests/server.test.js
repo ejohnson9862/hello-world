@@ -1,5 +1,5 @@
 const request = require('supertest');
-const { app, startServer } = require('../server');
+const { app, startServer } = require('../public/server');
 
 let server;
 
